@@ -55,5 +55,3 @@ The final output includes a plot of the cities and the optimal route found by th
 - Support for larger datasets and more complex optimizations.
 
 ---
-
-This description provides a clear overview of your project, its key concepts, features, and how to get started. Feel free to modify the repository link and any other details as needed!
